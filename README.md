@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Matos 
 
 - 👨🏾‍🏭 Hoje trabalho com Suporte T.I
-- 📚 Estudando JavaScript
+- 📚 Estudando HTML/CSS/JavaScript
 
 <div>
   <a href="https://github.com/gui65">
