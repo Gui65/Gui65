@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Matos 
 
 - 👨🏾‍🏭 Hoje trabalho com Suporte T.I
-- 📚 Estudando HTML/CSS/JavaScript
+- 📚 Estudando HTML/CSS/JavaScript/ReactJS/Boststrap
 
 <div>
   <a href="https://github.com/gui65">
@@ -13,6 +13,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </div>
   
   ##
