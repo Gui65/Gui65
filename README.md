@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Guilherme Matos 
 
 - 👨🏾‍🏭 Hoje trabalho como Desenvolvedor de Software JAVA
-- 📚 Estudando JAVA
-- 🧠 Conhecimento em HTML/CSS/JavaScript/ReactJS/Bootstrap
+- 📚 Estudando JAVA / SPRING / AngularJS / JavaScript / ReactJS
+- 💼 Experiência com HTML5 e CSS3 / AngularJS / Bootstrap / Java 7, 8 e Spring / JavaScript;
 #### Tenho 19 anos, sou apaixonado por tecnologia e programação, pretendo me tornar um profissional capacitado na área de desenvolvimento. Estou cursando analise e desenvolvimento de sistemas, na Cruzeiro do Sul. Fiz alguns cursos focado no Front-End, me aprofundei no JavaScript, fiz alguns projetos utilizando essa linguagem, aprendi bastante conceitos. Atualmente estou estudando Java na Foursys, para me especializar e mais pra frente atuar com a linguagem, e também fazendo um curso por fora, pretendo me especializar na linguagem, pois gostei bastante, e estou ganhando muito conhecimento.
 <div>
   <a href="https://github.com/gui65">
@@ -17,8 +17,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
-
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   </div>
   
   ##
