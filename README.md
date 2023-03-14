@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Guilherme Matos 
 
 - 👨🏾‍🏭 Hoje trabalho como Desenvolvedor de Software JAVA
-- 📚 Estudando JAVA / SPRING / AngularJS / JavaScript / ReactJS
-- 💼 Experiência com HTML5 e CSS3 / AngularJS / Bootstrap / Java 7, 8 e Spring / JavaScript;
-#### Tenho 19 anos, sou apaixonado por tecnologia e programação, pretendo me tornar um profissional capacitado na área de desenvolvimento. Estou cursando analise e desenvolvimento de sistemas, na Cruzeiro do Sul. Fiz alguns cursos focado no Front-End, me aprofundei no JavaScript, fiz alguns projetos utilizando essa linguagem, aprendi bastante conceitos. Atualmente estou estudando Java na Foursys, para me especializar e mais pra frente atuar com a linguagem, e também fazendo um curso por fora, pretendo me especializar na linguagem, pois gostei bastante, e estou ganhando muito conhecimento.
+- 📚 Estudando JAVA / SPRING / Angular / JavaScript / React
+- 💼 Experiência com HTML5 e CSS3 / Angular / Bootstrap / Java 7, 8 e Spring / JavaScript;
+#### Tenho 20 anos, sou apaixonado por tecnologia e programação, pretendo me tornar um profissional capacitado na área de desenvolvimento. Estou cursando analise e desenvolvimento de sistemas, na Cruzeiro do Sul. Fiz alguns cursos focado no Front-End, me aprofundei no JavaScript, fiz alguns projetos utilizando essa linguagem, aprendi bastante conceitos. Atualmente estou estudando Java na Foursys, para me especializar e mais pra frente atuar com a linguagem, e também fazendo um curso por fora, pretendo me especializar na linguagem, pois gostei bastante, e estou ganhando muito conhecimento.
 <div>
   <a href="https://github.com/gui65">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui65&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
