@@ -3,7 +3,7 @@
 - 👨🏾‍🏭 Hoje trabalho como Desenvolvedor de Software JAVA
 - 📚 Estudando JAVA / SPRING / Angular / JavaScript / React
 - 💼 Experiência com HTML5 e CSS3 / Angular / Bootstrap / Java 7, 8 e Spring / JavaScript;
-#### Tenho 20 anos, sou apaixonado por tecnologia e programação, pretendo me tornar um profissional capacitado na área de desenvolvimento. Estou cursando analise e desenvolvimento de sistemas, na Cruzeiro do Sul. Fiz alguns cursos focado no Front-End, me aprofundei no JavaScript, fiz alguns projetos utilizando essa linguagem, aprendi bastante conceitos. Atualmente estou estudando Java na Foursys, para me especializar e mais pra frente atuar com a linguagem, e também fazendo um curso por fora, pretendo me especializar na linguagem, pois gostei bastante, e estou ganhando muito conhecimento.
+#### Me chamo Guilherme e tenho 21 anos, tenho experiência em programação em Java 7 e 8, e em tecnologias frontend, como Angular, onde construo interfaces para aplicações web com foco na melhor experiência do usuário. Minha ampla experiência em front-end e design de interfaces, aliada à minha paixão por tecnologia e capacidade de aprendizado rápido, me permite estar sempre atualizado com as últimas tendências e avanços na minha área de atuação.
 <div>
   <a href="https://github.com/gui65">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui65&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
