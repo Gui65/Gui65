@@ -1,9 +1,13 @@
 ## Olá! Eu sou o Guilherme Matos 
 
 - 👨🏾‍🏭 Hoje trabalho como Desenvolvedor de Software JAVA
-- 📚 Estudando JAVA / SPRING / Angular / JavaScript / React
-- 💼 Experiência com HTML5 e CSS3 / Angular / Bootstrap / Java 7, 8 e Spring / JavaScript;
-#### Me chamo Guilherme e tenho 21 anos, tenho experiência em programação em Java 7 e 8, e em tecnologias frontend, como Angular, onde construo interfaces para aplicações web com foco na melhor experiência do usuário. Minha ampla experiência em front-end e design de interfaces, aliada à minha paixão por tecnologia e capacidade de aprendizado rápido, me permite estar sempre atualizado com as últimas tendências e avanços na minha área de atuação.
+- 📚 Estudando JAVA / SPRINGBOOT / Angular 
+- 💼 Experiência com  Java 8, 17 e 21 / Springboot / JavaScript;
+- 
+#### Me chamo Guilherme, tenho 22 anos e possuo sólida experiência em desenvolvimento com Java (versões 8, 17 e 21), além de tecnologias front-end como Angular. No meu trabalho atual para a Caesb, desenvolvo soluções utilizando Spring (incluindo Spring Web MVC), JPA,
+Hibernate, PrimeFaces e Spring Boot, além de trabalhar com MySQL como banco de dados. Sou responsável pela criação de microserviços e monolitos, utilizando ferramentas open-source para otimizar processos e garantir eficiência. Anteriormente, atuei em projetos para o cliente Bradesco, focando na integração de sistemas com mainframes e desenvolvimento de interfaces web que proporcionam uma excelente experiência ao usuário. Minha capacidade de aprender rapidamente e estar atualizado com as últimas tendências tecnológicas me permite entregar soluções inovadoras e eficazes.
+.
+
 <div>
   <a href="https://github.com/gui65">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui65&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
